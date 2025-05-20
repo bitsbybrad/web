@@ -1,3 +1,3 @@
 # web
 
-> all things web
+> all things web!
