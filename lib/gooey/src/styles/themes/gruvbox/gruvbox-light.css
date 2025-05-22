@@ -1,0 +1,34 @@
+@theme .gruvbox-light {
+  --color-gruvbox-bg0: #fbf1c7;
+  --color-gruvbox-bg1: #ebdbb2;
+  --color-gruvbox-bg2: #d5c4a1;
+  --color-gruvbox-bg3: #bdae93;
+  --color-gruvbox-bg4: #a89984;
+  --color-gruvbox-bg5: #928374;
+  --color-gruvbox-bg6: #7c6f64;
+
+  --color-gruvbox-fg0: #1d2021;
+  --color-gruvbox-fg1: #3c3836;
+  --color-gruvbox-fg2: #504945;
+  --color-gruvbox-fg3: #665c54;
+  --color-gruvbox-fg4: #7c6f64;
+
+  --color-gruvbox-red:     #cc241d;
+  --color-gruvbox-green:   #98971a;
+  --color-gruvbox-yellow:  #d79921;
+  --color-gruvbox-blue:    #458588;
+  --color-gruvbox-purple:  #b16286;
+  --color-gruvbox-aqua:    #689d6a;
+  --color-gruvbox-orange:  #d65d0e;
+
+  /* Semantic aliases */
+  --color-background: var(--color-gruvbox-bg0);
+  --color-surface:    var(--color-gruvbox-bg2);
+  --color-text:       var(--color-gruvbox-fg1);
+  --color-primary:    var(--color-gruvbox-yellow);
+  --color-secondary:  var(--color-gruvbox-blue);
+  --color-accent:     var(--color-gruvbox-orange);
+  --color-success:    var(--color-gruvbox-green);
+  --color-danger:     var(--color-gruvbox-red);
+  --color-muted:      var(--color-gruvbox-fg3);
+}

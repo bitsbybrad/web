@@ -1,0 +1,9 @@
+@import "tailwindcss";
+/* @theme {
+  --color-primary: blue;
+  --color-background: pink;
+} */
+
+/* @import "../../../lib/gooey/src/styles/style.css"; */
+
+/* You can add global styles to this file, and also import other style files */

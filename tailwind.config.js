@@ -1,16 +1,8 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
-    './apps/**/*.{ts,tsx,js,jsx}',
-    './libs/**/*.{ts,tsx,js,jsx}',
+    './app/**/*.{ts,tsx,js,jsx,css}',
+    './lib/**/*.{ts,tsx,js,jsx,css}',
   ],
-  theme: {
-    extend: {
-      colors: {
-        primary: 'hsl(var(--primary))',
-        background: 'hsl(var(--background))',
-      },
-    },
-  },
   plugins: [],
 };
